@@ -1,9 +1,8 @@
-<h2 align="left">Information Systems Student<br>Bridging business needs with technology solutions.<br>Interested in system analysis, AI-driven solutions, and digital product development.<br>Passionate about turning problems into structured systems.</h2>
+<h2 align="left">Information Systems Student</h2>
 
 ###
 
-<div align="center">
-</div>
+<p align="left">Bridging business needs with technology solutions.<br>Interested in system analysis, AI-driven solutions, and digital product development.<br>Passionate about turning problems into structured systems.</p>
 
 ###
 
@@ -44,7 +43,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
 
 ###
 
