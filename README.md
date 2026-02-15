@@ -1,4 +1,7 @@
-## Hi there 👋
+## Information Systems Student
+Bridging business needs with technology solutions.
+Interested in system analysis, AI-driven solutions, and digital product development.
+Passionate about turning problems into structured systems.
 
 <!--
 **Jeypaa/Jeypaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
